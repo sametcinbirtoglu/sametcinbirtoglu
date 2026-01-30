@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametcinbirtoglu&label=Profile%20views&color=fbff00&style=plastic" alt="sametcinbirtoglu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sametcinbirtoglu" alt="sametcinbirtoglu" /></a> </p>
-
 - 🔭 I’m not currently working on **any project**
 
 - 🌱 I’m currently learning **React**
